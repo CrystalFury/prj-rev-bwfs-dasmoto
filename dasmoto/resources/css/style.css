@@ -1,4 +1,4 @@
-h1, h2, #price {
+h1, h2, .price {
   font-family: Helvetica;
   font-weight: bold;
 }
@@ -27,6 +27,6 @@ h2 {
   background-color: skyblue;
 }
 
-#price {
+.price {
   color: blue;
 }
